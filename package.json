@@ -10,7 +10,7 @@
     "lint": "biome check . --apply",
     "lint:check": "biome check . --verbose",
     "lint:unsafe": "biome check . --apply-unsafe",
-    "prepare": "husky install",
+    "prepare": "husky",
     "serve:test-dapp": "serve node_modules/@metamask/test-dapp/dist -p 9999",
     "sort-package-json": "sort-package-json 'package.json' '{packages,wallets,examples}/*/package.json'",
     "sort-package-json:check": "sort-package-json 'package.json' '{packages,wallets,examples}/*/package.json' --check",
