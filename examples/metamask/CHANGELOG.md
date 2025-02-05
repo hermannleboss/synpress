@@ -1,5 +1,13 @@
 # example-metamask
 
+## 0.0.5
+
+### Patch Changes
+
+- Release
+- Updated dependencies
+  - @synthetixio/synpress@4.0.4
+
 ## 0.0.4
 
 ### Patch Changes
